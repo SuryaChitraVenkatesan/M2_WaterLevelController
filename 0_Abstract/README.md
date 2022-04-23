@@ -1,0 +1,2 @@
+In this project, I will explain how you can make a water level controller using 8051 microcontroller. The water level controller saves the energy and it controls the water motor by sensing the water level and controller controls the water level and blinks the led as per the water level in the tank.  The water level controller automatically switches ON the motor whenever the tank is empty and switches OFF the motor whenever the tank is full.
+
